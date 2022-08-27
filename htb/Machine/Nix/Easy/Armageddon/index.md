@@ -4,7 +4,7 @@ layout: default
 
 # Armageddon
 
-![Armageddon] (../images/Armageddon.png)
+![Armageddon] (https://kedaegan.github.io/htb/Machine/Nix/Easy/Armageddon/images/Armageddon.png)
 
 Drupal site that is vulnerable to [CVE-2018-7600] (https://nvd.nist.gov/vuln/detail/CVE-2018-7600). Once I had a command prompt I found the mysql credentials where I found a password hash. 
 Once cracked I was able to login as a low priv user.
