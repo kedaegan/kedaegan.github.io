@@ -8,4 +8,4 @@ In alphabetical order
 
 | Machine Name | Operating System | Difficulty | Date Rooted |
 | :---: | :---: | :---: | :---: |
-| ![Armageddon](/htb/Machine/Nix/Easy/Armageddon/) | Linux | Easy | April 2, 2021 |
+| [Armageddon](/htb/Machine/Nix/Easy/Armageddon/) | Linux | Easy | April 2, 2021 |
