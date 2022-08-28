@@ -2,7 +2,7 @@
 layout: default
 ---
 
-There is a page where I can put organize my writeups. Right now it is just for Hack The Box.
+This is a page where I can put organize my writeups. Right now it is just for Hack The Box.
 
 In alphabetical order
 
