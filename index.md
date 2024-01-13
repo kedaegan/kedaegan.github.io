@@ -34,13 +34,13 @@ In alphabetical order by machine name
 | Cascade | Windows | Medium | March 31, 2020 |
 | Cereal | Windows | Hard | April 21, 2021 |
 | Control | Windows | Hard | March 25, 2020 |
-| Delivery | Linux | Easy | April 4, 2021 |
+| [Delivery](/htb/Machine/Nix/Easy/Delivery/) | Linux | Easy | April 4, 2021 |
 | Devel | Windows | Medium | July 30, 20219 |
 | Devzat | Linux | Medium | November 25, 2021 |
 | Doctor | Linux | Easy | April 3, 2021 |
-| Driver | Windows | Easy | October 11, 2021 |
+| [Driver](/htb/Machine/Win/Easy/Driver/) | Windows | Easy | October 11, 2021 |
 | Dynstr | Linux | Medium | June 25, 2021 |
-| Explore | Android | Easy | June 27, 2021 |
+| [Explore](/htb/Machine/Win/Easy/Explore/) | Android | Easy | June 27, 2021 |
 | Forest | Windows | Easy | January 5, 2020 |
 | Forge | Linux | Medium | November 11, 2021 |
 | ForwardSlash | Linux | Hard | April 14, 2020 |
@@ -53,8 +53,10 @@ In alphabetical order by machine name
 | Machine Name | Operating System | Difficulty | Date Rooted |
 | :---: | :---: | :---: | :---: |
 | Haystack | Linux | Easy | July 9, 2019 |
-| Horizontall | Linux | Easy | October 8, 2021 |
+| [Horizontall](/htb/Machine/Nix/Easy/Horizontall/) | Linux | Easy | October 8, 2021 |
+| [Heist](/htb/Machine/Win/Heist/) | Win | Easy | September 15, 2022 |
 | Intelligence | Windows | Medium | July 16, 2021 |
+| [Inject](/htb/Machine/Nix/Easy/Inject/) | Linux | Easy | March 18, 2023 |
 | Irked | Linux | Easy | February 9, 2020 |
 | Jerry | Windows | Easy | December 29, 2019 |
 | Knife | Linux | Easy | May 24, 2021 |
@@ -68,22 +70,6 @@ In alphabetical order by machine name
 | Meta | Linux | Medium | January 15, 2022 |
 | Monitors | Linux | Hard | May 2, 2021 |
 | Monteverde | Windows | Medium | January 30, 2020 |
-| Multimaster | Windows | Insane | May 21, 2020 |
-| Horizontall | Linux | Easy | October 8, 2021 |
-| Intelligence | Windows | Medium | July 16, 2021 |
-| Irked | Linux | Easy | February 9, 2020 |
-| Jerry | Windows | Easy | December 29, 2019 |
-| Knife | Linux | Easy | May 24, 2021 |
-| Laboratory | Linux | Easy | April 4, 2021 |
-| Lame | Linux | Easy | July 17, 20219 |
-| Late | Linux | Easy | May 2, 2022 |
-| Legacy | Windows | Easy | July 17, 2019 |
-| Love | Windows | Easy | May 3, 2021 |
-| Magic | Linux | Medium | April 30, 2020 |
-| Mango | Linux | Medium | January 26, 2020 |
-| Meta | Linux | Medium | February 15, 2022 |
-| Monitors | Linux | Hard | May 2, 2021 |
-| Monteverde | Windows | Medium | January 3, 2020 |
 | Multimaster | Windows | Insane | May 21, 2020 |
 
 # N thru S
