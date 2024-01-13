@@ -25,7 +25,7 @@ In alphabetical order by machine name
 | Blunder | Linux | Easy | June 4, 2020 |
 | Bolt | Linux | Medium | November 21, 2021 |
 | Book | Linux | Medium | April 20, 2020 |
-| BountyHunter | Linux | Easy | August 6, 2021 |
+| [BountyHunter](/htb/Machine/Nix/Easy/BountyHunter/) | Linux | Easy | August 6, 2021 |
 | Breadcrumbs | Windows | Hard | April 19, 2021 |
 | Bucket | Linux | Medium | April 6, 2021 |
 | Buff | Windows | Easy | July 19, 2020 |
