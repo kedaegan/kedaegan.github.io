@@ -16,7 +16,7 @@ In alphabetical order by machine name
 | [Armageddon](/htb/Machine/Nix/Easy/Armageddon/) | Linux | Easy | April 2, 2021 |
 | Artic | | | HTB Deleted |
 | Atom | Windows | Medium | April 20, 2021 |
-| Backdoor | Linux | Easy | November 22, 2021 |
+| [Backdoor](/htb/Machine/Nix/Easy/Backdoor/) | Linux | Easy | November 22, 2021 |
 | Bart | Windows | Medium | June 30, 2020 |
 | Bashed | Linux | Easy | December 31, 2019 |
 | Bastard | Windows | Medium | January 3, 2020 |
@@ -30,7 +30,7 @@ In alphabetical order by machine name
 | Bucket | Linux | Medium | April 6, 2021 |
 | Buff | Windows | Easy | July 19, 2020 |
 | Cache | Linux | Medium | May 13,2020 |
-| Cap | Linux | Easy | June 9, 2021 |
+| [Cap](/htb/Machine/Nix/Easy/Cap/) | Linux | Easy | June 9, 2021 |
 | Cascade | Windows | Medium | March 31, 2020 |
 | Cereal | Windows | Hard | April 21, 2021 |
 | Control | Windows | Hard | March 25, 2020 |
