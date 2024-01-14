@@ -93,7 +93,7 @@ In alphabetical order by machine name
 | [PC](/htb/Machine/Nix/Easy/PC/) | Linux | Easy | Unknown |
 | [PhotoBomb](/htb/Machine/Nix/Easy/PhotoBomb/) | Linux | Easy | October 18, 2022 |
 | Pit | Linux | Medium | May 19, 2021 |
-| Pivotapi | Windows | Insane | May 19, 2021 |
+| [PivotAPI](/htb/Machine/Win/Insane/PivotAPI/) | Windows | Insane | May 19, 2021 |
 | Postman | Linux | Easy | December 22, 2019 |
 | [Precious](/htb/Machine/Nix/Easy/Precious/) | Linux | Easy | December 6, 2022 |
 | [Previse](/htb/Machine/Nix/Easy/Previse/) | Linux | Easy | October 7, 2021 |
@@ -114,7 +114,7 @@ In alphabetical order by machine name
 | Sharp | Windows | Hard | April 17, 2021 |
 | Shibboleth | Linux | Medium | November 23, 2021 |
 | [Shoppy](/htb/Machine/Nix/Easy/Shoppy/) | Linux | Easy | October 12, 2022 |
-| Sink | Sink | Insane | April 30, 2021 |
+| [Sink](/htb/Machine/Nix/Insane/Sink/) | Linux | Insane | April 30, 2021 |
 | SneakyMailer | Linux | Medium | July 14, 2020 |
 | Sniper | Windows | Medium | January 25, 2020 |
 | [Soccer](/htb/Machine/Nix/Easy/Soccer/) | Linux | Easy | December 27, 2022 |
