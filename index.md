@@ -103,6 +103,7 @@ In alphabetical order by machine name
 | Remote | Windows | Easy | March 24, 2020 |
 | Resolute | Windows | Medium | December 26, 2019 |
 | [RouterSpace](/htb/Machine/Nix/Easy/RouterSpace/) | Linux | Easy | June 19, 2022 |
+| [Sau](/htb/Machine/Nix/Easy/Sau/) | Linux | Easy | October 6, 2023 |
 | Sauna | Windows | Easy | Febuary 20, 2020 |
 | Schooled | Freebsd | Medium | April 12, 2021 |
 | [ScriptKiddie](/htb/Machine/Nix/Easy/ScriptKiddie/) | Linux | Easy | April 3, 2021 |
@@ -134,6 +135,7 @@ In alphabetical order by machine name
 | TheNotebook | Linux | Medium | April 11, 2021 |
 | [TimeLapse](/htb/Machine/Win/TimeLapse/) | Windows | Easy | May 2, 2022 |
 | Timing | Linux | Medium | December 20, 2021 |
+| [Topology](/htb/Machine/Nix/Topology/) | Linux | Easy | October 8, 2023 |
 | Traceback | Linux | Easy | March 20, 2020 |
 | Travel | Linux | Hard | July 7, 2020 |
 | Traverxec | Linux | Easy | December 24, 2019 |
