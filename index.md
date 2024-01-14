@@ -59,6 +59,7 @@ In alphabetical order by machine name
 | [Inject](/htb/Machine/Nix/Easy/Inject/) | Linux | Easy | March 18, 2023 |
 | Irked | Linux | Easy | February 9, 2020 |
 | Jerry | Windows | Easy | December 29, 2019 |
+| [Jupiter](/htb/Machine/Nix/Medium/Jupiter/) | Linux | Medium | October 12, 2023 |
 | [Knife](/htb/Machine/Nix/Easy/Knife/) | Linux | Easy | May 24, 2021 |
 | [Laboratory](/htb/Machine/Nix/Easy/Laboratory/) | Linux | Easy | April 4, 2021 |
 | Lame | Linux | Easy | July 17, 2019 |
